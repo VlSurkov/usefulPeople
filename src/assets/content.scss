@@ -1,0 +1,28 @@
+.content {
+  width: 650px;
+  min-height: 100vh;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 10px 5px 5px #8e7777;
+  text-align: center;
+  padding: 10px 50px;
+
+  .help {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .dates {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .dates__contacts {
+      margin: 0 auto;
+    }
+  }
+
+  .add {
+    cursor: pointer;
+  }
+}

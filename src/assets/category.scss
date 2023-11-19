@@ -1,0 +1,49 @@
+.category__item {
+  max-width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+  margin-bottom: 10px;
+
+  .category {
+    .categories__text {
+      max-width: 100px;
+      overflow: hidden;
+      border-radius: 5px;
+      padding: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+
+      &:hover {
+        background-color: #dce3ec;
+      }
+    }
+
+    input {
+      width: 100px;
+    }
+  }
+
+  button {
+    height: 15px;
+    color: red;
+    transition: color 0.3s ease;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+
+    img {
+      width: 15px;
+      height: 15px;
+    }
+
+    &:hover {
+      opacity: 0.5;
+    }
+  }
+}
+
+.selected {
+  background-color: #dce3ec;
+}

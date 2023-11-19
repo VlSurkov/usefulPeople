@@ -1,0 +1,67 @@
+{
+  "sidebar": {
+    "title": "Категории",
+    "titleAdd": "Добавьте категорию",
+    "buttons": {
+      "add": "Добавить"
+    }
+  },
+  "content": {
+    "title": "Выберите категорию",
+    "titleNote": "У вас пока нет контактов в этой категории",
+    "buttons": {
+      "add": "Добавить",
+      "edit": "Редактировать",
+      "delete": "Удалить"
+    },
+    "contact": {
+      "title": "Контакты",
+      "name": "Имя",
+      "use": "Польза",
+      "number": "Номер",
+      "telegram": "telegram",
+      "email": "email",
+      "links": "Соцсети"
+    }
+  },
+  "forms": {
+    "confirm": {
+      "title": "Вы, действительно, хотите удалить?",
+      "buttons": {
+        "yes": "да",
+        "no": "нет"
+      }
+    },
+    "category": {
+      "title": "Новая категория",
+      "err": "Введите название!",
+      "placeholders": {
+        "name": "Название"
+      },
+      "buttons": {
+        "add": "Добавить"
+      }
+    },
+    "contact": {
+      "titles": {
+        "name": "Имя",
+        "use": "польза",
+        "number": "Номер",
+        "telegram": "Telegram",
+        "email": "Email",
+        "links": "Соцсети"
+      },
+      "placeholders": {
+        "name": "Имя",
+        "use": "польза",
+        "number": "Номер",
+        "telegram": "telegram",
+        "email": "Email",
+        "links": "Соцсети"
+      },
+      "buttons": {
+        "save": "Сохранить"
+      }
+    }
+  }
+}

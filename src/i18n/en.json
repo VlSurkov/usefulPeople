@@ -1,0 +1,67 @@
+{
+  "sidebar": {
+    "title": "Categories",
+    "titleAdd": "Add a category",
+    "buttons": {
+      "add": "Add"
+    }
+  },
+  "content": {
+    "title": "Select a category",
+    "titleNote": "You don't have any contacts in this category yet",
+    "buttons": {
+      "add": "Add",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "contact": {
+      "title": "Контакты",
+      "name": "Name",
+      "use": "Use",
+      "number": "Number",
+      "telegram": "Telegram",
+      "email": "Email",
+      "links": "Social network"
+    }
+  },
+  "forms": {
+    "confirm": {
+      "title": "Do you really want to delete?",
+      "buttons": {
+        "yes": "yes",
+        "no": "no"
+      }
+    },
+    "category": {
+      "title": "New category",
+      "err": "Enter the title!",
+      "placeholders": {
+        "name": "Title"
+      },
+      "buttons": {
+        "add": "Add"
+      }
+    },
+    "contact": {
+      "titles": {
+        "name": "Name",
+        "use": "Use",
+        "number": "Number",
+        "telegram": "Telegram",
+        "email": "Email",
+        "links": "Social network"
+      },
+      "placeholders": {
+        "name": "Name",
+        "use": "Use",
+        "number": "Number",
+        "telegram": "Telegram",
+        "email": "Email",
+        "links": "Social network"
+      },
+      "buttons": {
+        "save": "Save"
+      }
+    }
+  }
+}
