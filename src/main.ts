@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import {createI18n, useI18n} from "vue-i18n";
-import components from '@/components/UI/index.ts';
+import components from '@/components/UI/index';
 import {languages, defaultLocal} from "@/i18n";
 
 const app = createApp(App, {
