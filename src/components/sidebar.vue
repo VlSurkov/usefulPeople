@@ -56,10 +56,10 @@ export default {
     return {
       langOptions: [
         {
-          value: "ru", name: 'src/assets/img/langRu.svg'
+          value: "ru", name: 'langRu.svg'
         },
         {
-          value: "en", name: 'src/assets/img/langEn.svg'
+          value: "en", name: 'langEn.svg'
         }
       ],
     }
